@@ -1,0 +1,5 @@
+{"slogan":"Rozszczepienie Hamleta na dziewięć osobowości, pan rozumie",
+"email":"teatrpersona@gmail.com","ticketEmail":"teatrpersona.bilety@gmail.com",
+"classes":{"title":"Zajęcia teatralne","when":"W każdy wtorek o 17:00","where":"Katowice, ul. Kopernika 14"},
+"social":[{"name":"Instagram","url":"https://www.instagram.com/teatrpersona/"},{"name":"Facebook","url":"https://www.facebook.com/profile.php?id=100089594084407"},{"name":"LinkedIn","url":"https://www.linkedin.com/company/teatr-persona"}],
+"nav":[{"id":"home","t":"Start","h":""},{"id":"about","t":"O nas","h":"o-nas/"},{"id":"team","t":"Zespół","h":"zespol/"},{"id":"news","t":"Aktualności","h":"aktualnosci/"},{"id":"projects","t":"Nasze projekty","h":"projekty/"},{"id":"partners","t":"Partnerzy","h":"partnerzy/"},{"id":"contact","t":"Kontakt","h":"kontakt/"},{"id":"tickets","t":"Bilety","h":"bilety/","cta":true}]}
